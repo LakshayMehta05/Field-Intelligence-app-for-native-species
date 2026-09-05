@@ -45,12 +45,14 @@ data class SpeciesDto(
     val scientificName: String,
     val family: String,
     val nativeRegion: String,
-    val conservationStatus: String,   // e.g. "LC", "VU", "EN"
+    val conservationStatus: String,   // e.g. "LC", "VU", "EN" or full label
     val isNative: Boolean,
     val shortDescription: String,
     val funFact: String? = null,
     val imageUrl: String? = null,
-    val confidence: Float = 0f
+    val confidence: Float = 0f,
+    // New: optional ecological importance text sent by backend
+    val ecologicalImportance: String? = null
 )
 
 data class ChatRequest(

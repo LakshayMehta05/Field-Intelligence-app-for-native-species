@@ -16,7 +16,9 @@ data class Species(
     val shortDescription: String,
     val funFact: String? = null,
     val imageUrl: String? = null,
-    val confidence: Float = 0f
+    val confidence: Float = 0f,
+    // New: ecological importance text from plant_info.csv (nullable for backward compatibility)
+    val ecologicalImportance: String? = null
 )
 
 enum class ConservationStatus(val label: String) {
