@@ -4,3 +4,5 @@ VIT_Plant_Dataset/
 .venv/
 __pycache__/
 *.pyc
+
+.env
