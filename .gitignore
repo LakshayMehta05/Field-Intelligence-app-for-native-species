@@ -1,0 +1,6 @@
+dataset/
+dataset_split/
+VIT_Plant_Dataset/
+.venv/
+__pycache__/
+*.pyc

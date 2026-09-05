@@ -1,0 +1,9 @@
+class_name,common_name,scientific_name,family,native_region,ecological_importance,conservation_status,verification_needed
+aloe_vera,Aloe Vera,Aloe vera,Asphodelaceae,Arabian Peninsula,"Attracts pollinators like sunbirds and provides shelter in arid environments.",Not Evaluated,No
+euphorbia_milii,Crown of Thorns,Euphorbia milii,Euphorbiaceae,Madagascar,"Serves as a nectar source and provides habitat structure in dry, rocky environments.",Not Evaluated,No
+frangipani,Frangipani,Plumeria rubra,Apocynaceae,"Mexico, Central America, and the Caribbean","Highly fragrant flowers attract sphinx moths for pollination at night.",Least Concern,Yes - Frangipani refers to multiple species in the Plumeria genus; Plumeria rubra is assumed.
+gulmohar,Gulmohar (Royal Poinciana),Delonix regia,Fabaceae,Madagascar,"Provides extensive shade and habitat for birds, while root nodules help fix nitrogen in the soil.",Endangered (in native wild habitat),No
+Indian_pennywort,Indian Pennywort,Centella asiatica,Apiaceae,Wetlands of Asia,"Acts as a rapid ground cover that helps stabilize banks and prevents soil erosion in wetland habitats.",Least Concern,No
+lantana,Lantana,Lantana camara,Verbenaceae,Central and South America,"Flowers provide abundant nectar for butterflies, though it forms dense thickets that can become highly invasive outside its native range.",Least Concern,No
+neem,Neem,Azadirachta indica,Meliaceae,Indian Subcontinent,"Known for natural pest-repellent properties, it provides drought-resistant shade and helps improve soil fertility.",Least Concern,No
+passiflora,Passionflower,Passiflora spp.,Passifloraceae,Americas,"An essential host plant for the larvae of many butterfly species, particularly heliconians.",Not Evaluated,Yes - Passiflora is a large genus; specific species identification is required for precise data.
